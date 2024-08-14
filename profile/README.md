@@ -6,4 +6,4 @@ For questions, comments and data access requests, please contact [@davidrwilliam
 
 ## Public repositories:
   - [Floris-internship](https://github.com/NTNU-INH-digital/Floris-internship)  
-    Work by our 2024 intern, Floris Buyse, on automatic segmentation of leaves in herbarium sheets.
+    Work by our 2024 intern, [Floris Buyse](https://github.com/Floris-Buyse-FB), on automatic segmentation of leaves in herbarium sheets.
